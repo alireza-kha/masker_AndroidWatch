@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ماسکر</string>
+    <string name="notification_channel_name">پخش ماسکر</string>
+    <string name="notification_title">ماسکر شنوایی در حال پخش</string>
+    <string name="notification_text">برای توقف ضربه بزنید</string>
+    <string name="stop">توقف</string>
+</resources>
